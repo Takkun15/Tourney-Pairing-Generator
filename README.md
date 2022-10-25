@@ -1,4 +1,5 @@
-# Tourney-Pairing-Generator
+# Tourney-Pairing-Generator (WIP)
+PROGRAM CURRENTLY UNDER CONSTRUCTION, RESULT INPUT FUNCTIONS HAVE YET TO BE WRITTEN
 A program to generate round pairings for Yu-Gi-Oh! tournaments. Uses the Swiss tournament system and can be applied to other TCGs.
 Data will be saved at the end of each round to the original csv file to prevent accidental data loss.
 
